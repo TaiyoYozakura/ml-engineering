@@ -120,4 +120,3 @@ def pred():
 
 
 pred()
-    
